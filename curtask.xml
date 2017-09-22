@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="Shift_JIS" standalone="no"?>
+<!DOCTYPE TASKLIST SYSTEM "esptask.dtd">
+<TASKLIST>
+   <TASK>
+     <GEN_PARAM>
+       <TASKID>101</TASKID>
+       <TASKLABEL>実験タスク</TASKLABEL>
+       <INTERVAL>120</INTERVAL>
+       <TIMEOUT>30</TIMEOUT>
+     </GEN_PARAM>
+     <SERV_PARAM>
+       <TCP>
+         <HOSTNAME>172.17.77.23</HOSTNAME>
+         <PORT>80</PORT>
+       </TCP>
+     </SERV_PARAM>
+   </TASK>
+   <TASK>
+     <GEN_PARAM>
+       <TASKID>102</TASKID>
+       <TASKLABEL>実験タスク2</TASKLABEL>
+       <INTERVAL>120</INTERVAL>
+       <TIMEOUT>30</TIMEOUT>
+     </GEN_PARAM>
+     <SERV_PARAM>
+       <TCP>
+         <HOSTNAME>172.17.77.23</HOSTNAME>
+         <PORT>80</PORT>
+       </TCP>
+     </SERV_PARAM>
+   </TASK>
+   <TASK>
+     <GEN_PARAM>
+       <TASKID>103</TASKID>
+       <TASKLABEL>実験タスク3</TASKLABEL>
+       <INTERVAL>120</INTERVAL>
+       <TIMEOUT>30</TIMEOUT>
+     </GEN_PARAM>
+     <SERV_PARAM>
+       <TCP>
+         <HOSTNAME>172.17.77.23</HOSTNAME>
+         <PORT>80</PORT>
+       </TCP>
+     </SERV_PARAM>
+   </TASK>
+</TASKLIST>
