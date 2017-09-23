@@ -1,5 +1,5 @@
-
-using module .\curtask.psm1  
+using module .\curtask.psm1
+Import-Module .\curtask.psm1 -Force 
 
 
 $filename="curtask.xml";
