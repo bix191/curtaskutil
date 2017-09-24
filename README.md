@@ -1,0 +1,4 @@
+# curtaskutil
+powershell 練習プロジェクト
+
+あくまでpowershellに馴れるためのプロジェクトなので実用性は無いし目指さない。
