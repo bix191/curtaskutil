@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="Shift_JIS" standalone="no"?>
-<!DOCTYPE TASKLIST SYSTEM "esptask.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TASKLIST SYSTEM "curtask.dtd">
 <TASKLIST>
    <TASK>
      <GEN_PARAM>
        <TASKID>101</TASKID>
-       <TASKLABEL>実験タスク</TASKLABEL>
+       <TASKLABEL>螳滄ｨ薙ち繧ｹ繧ｯ</TASKLABEL>
        <INTERVAL>120</INTERVAL>
        <TIMEOUT>30</TIMEOUT>
      </GEN_PARAM>
@@ -18,7 +18,7 @@
    <TASK>
      <GEN_PARAM>
        <TASKID>102</TASKID>
-       <TASKLABEL>実験タスク2</TASKLABEL>
+       <TASKLABEL>螳滄ｨ薙ち繧ｹ繧ｯ2</TASKLABEL>
        <INTERVAL>120</INTERVAL>
        <TIMEOUT>30</TIMEOUT>
      </GEN_PARAM>
@@ -32,7 +32,7 @@
    <TASK>
      <GEN_PARAM>
        <TASKID>103</TASKID>
-       <TASKLABEL>実験タスク3</TASKLABEL>
+       <TASKLABEL>螳滄ｨ薙ち繧ｹ繧ｯ3</TASKLABEL>
        <INTERVAL>120</INTERVAL>
        <TIMEOUT>30</TIMEOUT>
      </GEN_PARAM>

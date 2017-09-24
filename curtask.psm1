@@ -27,7 +27,7 @@ class CurTaskList {
         $this.tasklist+=$obj;
     }
     parseXml([string] $xmlfilename) {
-        $xml=[xml](Get-Content $xmlfilename);
+        $xml=[xml](Get-Content -Encoding UTF8 $xmlfilename);
         $xml.GetElementsByTagName("TASK") | foreach -process {
             [int] $taskId;
             [string] $taskLabel;
